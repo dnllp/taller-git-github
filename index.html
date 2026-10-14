@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Anuario Colaborativo | Taller Git & GitHub</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <span class="badge">Taller Práctico de Colaboración</span>
+      <h1>Anuario Colaborativo Git</h1>
+      <p>Proyecto web construido en equipo mediante ramas (branches) y Pull Requests en GitHub.</p>
+      <div class="stats-bar">
+        <div class="stat-item">
+          <span class="stat-number" id="card-count">0</span>
+          <span class="stat-label">Colaboradores</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <div id="cards-grid" class="cards-grid">
+      <!-- Las tarjetas se inyectan automáticamente desde JavaScript -->
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>Construido durante el taller con Git, GitHub & GitHub Pages.</p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
