@@ -3,5 +3,5 @@
   "rol": "Instructor del Taller",
   "mensaje": "¡Bienvenidos al taller! Rama creada, cambios hechos e integrados con éxito.",
   "github_user": "dnllp",
-  "tecnologias": ["Git", "GitHub", "IoT"]
+  "tecnologias": ["Git", "GitHub", "IoT", "Python"]
 }
