@@ -1,0 +1,7 @@
+{
+  "nombre": "Justin",
+  "rol": "Estudiante de ISC",
+  "mensaje": "Mi primer Pull Request integrado a main",
+  "github_user": "TU_USUARIO_DE_GITHUB",
+  "tecnologias": ["Git", "GitHub", "Python"]
+}
