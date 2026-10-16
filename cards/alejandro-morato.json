@@ -3,6 +3,6 @@
   "nombre":"Alejandro Morato",
   "usuario":"Alejandro-Morato",
   "carrera":"ISC",
-  "mensaje":"Mi primer pull request",
-  "color":"#2386AF"
+  "github_user": "Alejandro-Morato",
+  "tecnologias": ["Java", "GitHub", "SQL", "SCRUM"]
 }
